@@ -1,3 +1,0 @@
-This is demo file
-Lets try to pull tis in local repo.
-Now we will push this in online repo
